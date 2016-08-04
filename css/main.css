@@ -1,0 +1,63 @@
+*{
+	box-sizing: content-box;
+	font-family:"Oswald";
+	margin:0%;
+	padding:0%; 
+}
+.about{
+	background-color:#FFFFFF;
+}
+.menu{
+	text-align: center;
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+.equis{
+	margin-top: 7%;
+}
+a{
+	margin:3%;
+}
+.logo{
+	background-image: url("../images/background.jpg");
+	height: 520px;
+	text-align: center;
+}
+h1, h4{
+	color: #ffffff;
+}
+.wow{
+	background-image: url("../images/tile1.png");
+	text-align: center;
+	padding: 2%;
+}
+h5, h6{
+	color:#8F03E3;
+	margin-bottom: 6%;
+}
+.perfil{
+	border:1px solid black;
+	padding: 5px;
+}
+p{
+	text-align: left;
+}
+.like{/*
+	text-align: center;*/
+	padding-top: 9%;
+	padding-bottom: 9%;
+}
+.gatito{
+	padding: 2px;
+	border:2px solid #8F03E3;
+	border-radius: 70%;
+}
+.contac{
+	background-image: url("../images/tile2.png");
+	text-align: center;
+	padding-top: 9%;
+	padding-bottom: 9%;
+}
+.redes{
+	margin:2%;
+}
